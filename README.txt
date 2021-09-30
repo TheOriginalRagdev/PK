@@ -1,1 +1,1 @@
-You can't just open the index.html directly in the browser, unfortunately. Read https://github.com/SheepTester/htmlifier/wiki/Downloading-as-a-.zip
+This Is A Big Project And Yet Its Not Done Yet So Im Going To Make A SB3 File For Making Mods Easier And Hope You Enjoy The Game!
